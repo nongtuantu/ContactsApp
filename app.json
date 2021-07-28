@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Re_build_contacts",
+    "slug": "Re_build_contacts",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Re_build_contacts"
+}
