@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "930096018260",
+    "project_id": "contactsapp-7c80b",
+    "storage_bucket": "contactsapp-7c80b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930096018260:android:33063602a8173ca3b6cec1",
+        "android_client_info": {
+          "package_name": "com.rebuildcontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930096018260-9o2u4nf5g5r0ujrm8j1jgfohhbbhd9d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEsCNlTHisb2rWimh1UysxMHwCsNLM6LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930096018260-9o2u4nf5g5r0ujrm8j1jgfohhbbhd9d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930096018260:android:47df7dbaf9144c13b6cec1",
+        "android_client_info": {
+          "package_name": "com.tuantu.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930096018260-9o2u4nf5g5r0ujrm8j1jgfohhbbhd9d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEsCNlTHisb2rWimh1UysxMHwCsNLM6LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930096018260-9o2u4nf5g5r0ujrm8j1jgfohhbbhd9d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

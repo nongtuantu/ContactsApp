@@ -7,6 +7,14 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
+    "@react-native-async-storage/async-storage": "react-native-async-storage/async-storage",
+    "@react-native-firebase/app": "^12.4.0",
+    "@react-native-firebase/storage": "^12.4.0",
+    "@react-navigation/drawer": "^5.12.5",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "axios": "^0.21.1",
     "expo": "~42.0.1",
     "expo-splash-screen": "~0.11.2",
     "expo-status-bar": "~1.0.4",
@@ -14,11 +22,19 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
+    "react-native-country-picker-modal": "^2.0.0",
+    "react-native-dotenv": "^3.1.1",
     "react-native-gesture-handler": "~1.10.2",
+    "react-native-image-crop-picker": "^0.36.2",
+    "react-native-raw-bottom-sheet": "^2.2.0",
     "react-native-reanimated": "~2.2.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-scalesheet": "^1.0.2",
     "react-native-screens": "~3.4.0",
+    "react-native-size-matters": "^0.4.0",
     "react-native-unimodules": "~0.14.5",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "react-navigation-drawer": "react-navigation/drawer"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
